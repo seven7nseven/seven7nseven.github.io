@@ -1,0 +1,66 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(29, 29, 29);
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+}
+
+.stuff {
+    height: fit-content;
+    font-size: 18px;
+    text-align: center;
+    align-items: center;
+    padding: 12px;
+}
+
+.homepage {
+    font-size: 24px;
+    background-color: #585858;
+    height: fit-content;
+    max-width: 720px;
+    margin: auto;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.aboutMe {
+    background-color: #383838;
+    max-width: 800px;
+    font-size: 24px;
+    margin: auto;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.aboutMe ul {
+    list-style-position: inside;
+    margin-top: -25px;
+    margin-left: -65px;
+}
+
+.aboutSite {
+    background-color: #484848;
+    max-width: 980px;
+    font-size: 24px;
+    margin: auto;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+p {
+    margin-top: -12px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 24px;
+}
+
+a {
+    color: #7c7c7c;
+}
+
+a:focus {
+    color: #585858;
+}
