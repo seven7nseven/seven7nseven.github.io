@@ -48,6 +48,22 @@ body {
     padding: 12px;
 }
 
+.journal {
+    background-color: #545454;
+    max-width: 620px;
+    font-size: 24px;
+    margin: auto;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.storywriting {
+    max-width: 1120px;
+    font-size: 24px;
+    margin: auto;
+    padding: 12px;
+}
+
 p {
     margin-top: -12px;
 }
